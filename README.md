@@ -5,7 +5,7 @@
 -
 -
 
-## Minor Projects
+## Additional Projects
 ### SQL
 - US Household Income Project
 - Covid Deaths Analysis
