@@ -1,7 +1,7 @@
 # Full Project List
 
 ## Major Projects
--
+- A Global Perspective: Factors Influencing Life Expectancy (SQL & Python)
 -
 -
 
