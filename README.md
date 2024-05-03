@@ -7,14 +7,14 @@
 
 ## Additional Projects
 ### SQL
-- US Household Income Project
-- Covid Deaths Analysis
-- Nashville Housing Market
-- App Store Analysis
+- [US Household Income Project] - Analyzed and visualized trends in US household income using SQL.
+- [Covid Deaths Analysis] - Investigated and visualized Covid-19 deaths data using SQL to understand the impact of the pandemic.
+- [Nashville Housing Market] - Explored the Nashville housing market trends and patterns through SQL queries and visualizations.
+- [App Store Analysis] - Examined app store data using SQL to identify trends and insights for app developers.
 
 ### Statistics & Analytics
-- Logistic Regression - Use logistic regression to predict Titanic survivors.
-- Multilinear Regression - Use multilinear regression to determine most relevant predictor of store sales.
+- [Predicting Titanic Survival] - Used Python pandas for logistic regression to predict Titanic survivors.
+- [Store Sales Prediction: Multilinear Regression Analysis] - Use multilinear regression to determine most relevant predictor of store sales.
 
 ### Excel
 - IMDB Movie Analysis
