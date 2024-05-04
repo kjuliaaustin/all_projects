@@ -25,7 +25,7 @@
 -
 
 ### Tableau and PowerBI
-- [Netflix Dashboard](https://public.tableau.com/app/profile/katharina.austin/viz/NetflixPortfolioProject_17108129793280/Netflix) - Visualizing and analyzing Netflix data to extract insights into viewership trends and content performance.
+- *[Netflix Dashboard]*(https://public.tableau.com/app/profile/katharina.austin/viz/NetflixPortfolioProject_17108129793280/Netflix) - Visualizing and analyzing Netflix data to extract insights into viewership trends and content performance.
 - [Car Sales](https://public.tableau.com/app/profile/katharina.austin/viz/CarSalesDashboardPortfolioProject/Dashboard1) - Analyzing car sales data to understand market trends, popular models, and factors influencing sales.
 - [House Sales in Washington](https://public.tableau.com/app/profile/katharina.austin/viz/WashingtonHouseSalesPortfolioProject/KingCountyHouseSales) - Visualizing house sales data in Washington to identify market trends, popular neighborhoods, and price fluctuations.
 - [Covid Dashboard](https://public.tableau.com/app/profile/katharina.austin/viz/CovidDashboardPortfolioProject_17104548356590/Dashboard1) - Tracking and visualizing Covid-19 data, including cases, deaths, and vaccination rates, to understand the impact of the pandemic.
