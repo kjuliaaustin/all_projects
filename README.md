@@ -18,7 +18,7 @@
 
 ### Excel
 - **IMDB Movie Analysis**
-- **[US Debt Tracker]** - Analyzed US debt trends monthly and yearly, forecasting the next five years and answering key questions on yearly debt percentage increases, monthly debt variations, and projected growth of publicly held debt.
+- **[US Debt Tracker]** - Analyzed US debt trends monthly and yearly, forecasting the next five years and answered key questions on yearly debt percentage increases, monthly debt variations, and projected growth of publicly held debt.
 
 ### Python
 -
