@@ -2,23 +2,23 @@
 
 ## Major Projects
 - **[A Global Perspective: Factors Influencing Life Expectancy (SQL & Python)](https://github.com/kjuliaaustin/project1)** - Exploring various aspects of life expectancy across different countries and continents, as well as factors that might influence life expectancy, such as GDP, education, healthcare, and mental health disorders.
-- **[Exploring the Economics of Movie Genres: A Data Analysis](https://github.com/kjuliaaustin/movie_analysis)** - Analyzing the economic impact of movie genres through data-driven insights on budget, revenue, profit, popularity, and voting average.
+- **[Exploring the Economics of Movie Genres: A Data Analysis](https://github.com/kjuliaaustin/movie_genres)** - Analyzing the economic impact of movie genres through data-driven insights on budget, revenue, profit, popularity, and voting average.
 - **[Unveiling Customer Behavior: A Data Journey in Food Marketing](https://github.com/kjuliaaustin/ufood_marketing)** - Exploring customer behavior in a food marketing campaign through data analysis, revealing trends and insights for targeted strategies.
 - **[Financial Insights: A Dynamic Dashboard for Expense Analysis](https://github.com/kjuliaaustin/expenses_tracker)** - Uncovering spending patterns and gaining financial clarity with an interactive expense analysis dashboard.
 
 ## Additional Projects
 ### SQL
-- **[US Household Income Project](https://github.com/kjuliaaustin/project1)** - Analyzed and visualized trends in US household income using SQL.
-- **[Covid Deaths Analysis](https://github.com/kjuliaaustin/project1)** - Investigated and visualized Covid-19 deaths data using SQL to understand the impact of the pandemic.
-- **[Nashville Housing Market](https://github.com/kjuliaaustin/project1)** - Explored the Nashville housing market trends and patterns through SQL queries and visualizations.
-- **[App Store Analysis](https://github.com/kjuliaaustin/project1)** - Examined app store data using SQL to identify trends and insights for app developers.
+- **[US Household Income Project](https://github.com/kjuliaaustin/us-household_income)** - Analyzed and visualized trends in US household income using SQL.
+- **[Covid Deaths Analysis](https://github.com/kjuliaaustin/covid_deaths)** - Investigated and visualized Covid-19 deaths data using SQL to understand the impact of the pandemic.
+- **[Nashville Housing Market]** - Explored the Nashville housing market trends and patterns through SQL queries and visualizations.
+- **[App Store Analysis](https://github.com/kjuliaaustin/app_store)** - Examined app store data using SQL to identify trends and insights for app developers.
 
 ### Statistics & Analytics
-- **[Predicting Titanic Survival](https://github.com/kjuliaaustin/project1)** - Used Python pandas for logistic regression to predict Titanic survivors.
-- **[Store Sales Prediction: Multilinear Regression Analysis](https://github.com/kjuliaaustin/project1)** - Use multilinear regression to determine most relevant predictor of store sales.
+- **[Predicting Titanic Survival]** - Used Python pandas for logistic regression to predict Titanic survivors.
+- **[Store Sales Prediction: Multilinear Regression Analysis]** - Use multilinear regression to determine most relevant predictor of store sales.
 
 ### Excel
-- **[IMDB Movie Analysis](https://github.com/kjuliaaustin/project1)**
+- **[IMDB Movie Analysis](https://github.com/kjuliaaustin/IMDB_movie)**
 - **[US Debt Tracker](https://github.com/kjuliaaustin/project1)** - Analyzed US debt trends monthly and yearly, forecasting the next five years and answered key questions on yearly debt percentage increases, monthly debt variations, and projected growth of publicly held debt.
 
 ### Python
