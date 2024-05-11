@@ -4,6 +4,7 @@
 - **[A Global Perspective: Factors Influencing Life Expectancy (SQL & Python)]** - Exploring various aspects of life expectancy across different countries and continents, as well as factors that might influence life expectancy, such as GDP, education, healthcare, and mental health disorders.
 - **[Exploring the Economics of Movie Genres: A Data Analysis]** - Analyzing the economic impact of movie genres through data-driven insights on budget, revenue, profit, popularity, and voting average.
 - **[Unveiling Customer Behavior: A Data Journey in Food Marketing]** - Exploring customer behavior in a food marketing campaign through data analysis, revealing trends and insights for targeted strategies.
+- **[Financial Insights: A Dynamic Dashboard for Expense Analysis]** - Uncovering spending patterns and gaining financial clarity with an interactive expense analysis dashboard.
 
 ## Additional Projects
 ### SQL
